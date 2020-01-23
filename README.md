@@ -1,0 +1,2 @@
+# Operativsystem
+Read "LabSocket.pdf"
